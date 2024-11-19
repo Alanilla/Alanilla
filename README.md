@@ -1,5 +1,10 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
+Hi, I’m Azlan Samad, also known in the Internet as Alanila! Here’s a little about me:
+- 🌱 I’m currently a ComputerScience Student from IIUM and is in my Sophomore year~
+- 🛠️ Skills: Python & C++
+- 🎮 Hobbies: Gaming, anime, and playing with Algorithms
+- 📫 How to reach me: - *None for now :3*
 <!--
 **Alanilla/Alanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
